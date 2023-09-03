@@ -8,5 +8,6 @@ repro of the bug
 1. make a new `:terminal`
 1. in the terminal run `zsh`
 1. write something like `brew help` 
+1. write `brew`
 
-You should see the black text now in the suggestions
+You should see the black text now after `brew` in the suggestions
